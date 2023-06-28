@@ -36,7 +36,7 @@ Los pasos para ejecutar el bot son los siguientes:
 
      ![Configuración de GIT](https://github.com/abustosp/Configuraciones/blob/master/Uipath/Habilitar-GIT.png "Configuración de GIT")
    
-   3. Descargar el repositorio con GIT utilizando el comando `git clone https://github.com/abustosp/RETPER-IIBB-AGIP-ARBA.git`
+   3. Descargar el repositorio con GIT utilizando el comando `git clone https://github.com/abustosp/Devolucion-de-Percepcion-Ganancias`
 
 5. Una vez Descargados los archivos se debe:
    
