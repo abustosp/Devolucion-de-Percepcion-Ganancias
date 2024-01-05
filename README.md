@@ -16,7 +16,7 @@ Los pasos para ejecutar el bot son los siguientes:
 
     - Si se instala la versión Studio X se debe cambiar la versión del proyecto a Studio X con desde las configuraciones
 
-    ![Configuración de versión](https://github.com/abustosp/Configuraciones/blob/master/Uipath/Cambiar-a-Studio.png "Configuración de versión")
+    ![Configuración de versión](https://github.com/abustosp/Configuraciones/blob/master/Uipath/Cambiar-a-Studio.png?raw=true "Configuración de versión")
 
       - Si no permite hacer este cambio se debe:
 
@@ -34,7 +34,7 @@ Los pasos para ejecutar el bot son los siguientes:
 
      - Si no aparece la opción de GIT en el Uipath se debe instalar el GIT desde las configuraciones de Uipath
 
-     ![Configuración de GIT](https://github.com/abustosp/Configuraciones/blob/master/Uipath/Habilitar-GIT.png "Configuración de GIT")
+     ![Configuración de GIT](https://github.com/abustosp/Configuraciones/blob/master/Uipath/Habilitar-GIT.png?raw=true "Configuración de GIT")
    
    3. Descargar el repositorio con GIT utilizando el comando `git clone https://github.com/abustosp/Devolucion-de-Percepcion-Ganancias.git`
 
@@ -48,7 +48,7 @@ Los pasos para ejecutar el bot son los siguientes:
 
 ---
 
-## Particularidades del BOT:
+## Configuraciones del BOT:
 
 - El Bot corre en Firefox (se puede configurar para Chrome pero se recomienda el primero por temas de rendimiento) y en Windows 10 cómo mínimo.
 
@@ -56,19 +56,18 @@ Los pasos para ejecutar el bot son los siguientes:
 
     1. El idioma tiene que estar en Español de Argentina
 
-    ![Configuración de idioma](https://github.com/abustosp/Configuraciones/blob/master/Firefox/Idioma-Espa%C3%B1ol-ARG.png "Configuración de idioma")
+    ![Configuración de idioma](https://github.com/abustosp/Configuraciones/blob/master/Firefox/Idioma-Espa%C3%B1ol-ARG.png?raw=true "Configuración de idioma")
 
     2. La descarga de archivos debe estar configurada para que se pregunte donde guardarlos
 
-    ![Configuración de descarga](https://github.com/abustosp/Configuraciones/blob/master/Firefox/Ubicacion-de-descargas.png "Configuración de descarga")
+    ![Configuración de descarga](https://github.com/abustosp/Configuraciones/blob/master/Firefox/Ubicacion-de-descargas.png?raw=true "Configuración de descarga")
 
     3. La descarga de archivos debe estar configurada para que no se pregunte si se quiere guardar el archivo (si el archivo aparece en la lista tiene que estar configurado con la opción de "Guardar Archivo" por ejemplo en el caso de los PDF y XLSX o planillas de cálculo)
 
-    ![Configuración de descarga](https://github.com/abustosp/Configuraciones/blob/master/Firefox/Descarga-de-Archivos.png "Configuración de descarga")
+    ![Configuración de descarga](https://github.com/abustosp/Configuraciones/blob/master/Firefox/Descarga-de-Archivos.png?raw=true "Configuración de descarga")
 
-- Se debe completar el Excel adjunto con la información de los contribuyentes (el BOT solamente toma los datos no filtrados)
+- Se debe completar el Excel adjunto con la información de los contribuyentes (el BOT solamente toma los datos no filtrados), y los CSV con los períodos correspondientes,
 
-- Para Ejecutar el BOT se debe completar la información en el Excel (hay que tener en cuenta el formato regional de Excel, en algunos casos hay que reemplazar en todas las fórmulas los AAAA por YYYY)
 
 ---
 
@@ -108,7 +107,7 @@ Cualquier cosa pueden contactarme en:
 
 <br/>
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/agustinbustosp) <!-- [<img src="http://ketekipo.com.ar/wp-content/uploads/2020/05/mercado-pago.png" alt="Image" height="30" width="100\">](https://paypal.me/paypal.me/agustinbustosp) -->
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/agustinbustosp)
 
 
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/abustos)
